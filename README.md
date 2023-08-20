@@ -9,14 +9,16 @@ S: Share 分享一个观点
 
 ### Week 1
 
-
+https://github.com/AaronPhantomhive/ARTS/tree/main/Second%20Season/Week1
 
 ### Week 2
 
-
+https://github.com/AaronPhantomhive/ARTS/tree/main/Second%20Season/Week2
 
 ### Week 3
 
-
+https://github.com/AaronPhantomhive/ARTS/tree/main/Second%20Season/Week3
 
 ### Week 4
+
+https://github.com/AaronPhantomhive/ARTS/tree/main/Second%20Season/Week4
