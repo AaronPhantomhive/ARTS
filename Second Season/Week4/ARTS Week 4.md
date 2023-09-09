@@ -94,7 +94,7 @@ class Solution {
 
 ## Review
 
-
+https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/#resources
 
 ## Technique/Tips
 
