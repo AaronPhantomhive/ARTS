@@ -94,21 +94,33 @@ class Solution {
 
 ## Review
 
-Notepad++ 漏洞允许执行任意代码。
+Github 上编程语言和代码质量的大规模研究。
 
-Notepad++ 中发现了多个缓冲区溢出漏洞，威胁行为者可利用这些漏洞进行恶意目的。
+有人从 GitHub 上分析了728 个项目、6300 万个 SLOC、29,000 位作者、150 万次提交、17 种语言。来证明编程语言对软件质量有什么影响。
 
-这些漏洞的严重性从 5.5（**中**）到 7.8（**高**）不等。
-
-这些漏洞基于 Notepad++ 软件使用的某些函数和库的堆缓冲区写入溢出和堆缓冲区读取溢出。
-
-https://cybersecuritynews.com/multiple-notepad-flaw/
-
-https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/#resources
+https://cacm.acm.org/magazines/2017/10/221326-a-large-scale-study-of-programming-languages-and-code-quality-in-github/fulltext
 
 ## Technique/Tips
 
+AI学习相关思维导图：
 
+Artificial Intelligence (AI): Philosophy Mind Map
+
+https://gogeometry.com/software/ai/artificial-intelligence-mind-map-philosophy.html
 
 ## Share
 
+机器学习工程师需要了解的 10 种算法
+
+来自：https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+- Decision Trees
+- Naive Bayes Classification
+- Ordinary Least Squares Regression
+- Logistic Regression
+- Support Vector Machines
+- Ensemble Methods
+- Clustering Algorithms
+- Principal Component Analysis
+- Singular Value Decomposition
+- Independent Component Analysis
