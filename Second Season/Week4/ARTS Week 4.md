@@ -94,6 +94,16 @@ class Solution {
 
 ## Review
 
+Notepad++ 漏洞允许执行任意代码。
+
+Notepad++ 中发现了多个缓冲区溢出漏洞，威胁行为者可利用这些漏洞进行恶意目的。
+
+这些漏洞的严重性从 5.5（**中**）到 7.8（**高**）不等。
+
+这些漏洞基于 Notepad++ 软件使用的某些函数和库的堆缓冲区写入溢出和堆缓冲区读取溢出。
+
+https://cybersecuritynews.com/multiple-notepad-flaw/
+
 https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/#resources
 
 ## Technique/Tips
